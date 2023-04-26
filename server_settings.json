@@ -1,0 +1,15 @@
+{
+  "memory": 5,
+  "version": {
+    "type": "vanilla",
+    "id": "1.19.2",
+    "release": true
+  },
+  "remote": {
+    "type": "git",
+    "host": "github",
+    "owner": "txkodo",
+    "repo": "TsetSW",
+    "branch": "3c490c3f-71b1-4466-94fd-05b6eb237824"
+  }
+}

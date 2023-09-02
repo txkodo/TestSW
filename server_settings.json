@@ -1,1 +1,1 @@
-{"memory":{"size":2,"unit":"GB"},"version":{"id":"1.20.1","type":"vanilla","release":true},"remote":{"folder":{"type":"github","owner":"txkodo","repo":"testSW"},"name":"NeoA"},"last_date":1693631028928,"using":false}
+{"memory":{"size":2,"unit":"GB"},"version":{"id":"1.20.1","type":"vanilla","release":true},"remote":{"name":"NeoA","folder":{"type":"github","owner":"txkodo","repo":"testSW"}},"last_date":1693631028928,"using":false}
